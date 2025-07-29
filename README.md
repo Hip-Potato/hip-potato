@@ -1,16 +1,16 @@
-## Hello, nothing to see here
+# Hip Potato
 
-<!--
-**Hip-Potato/hip-potato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Simple one-page website built with HTML and CSS.  
+Includes animated gradient background, custom fonts, and an embedded video.
 
-Here are some ideas to get you started:
+## Live site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[https://hip-potato.com](https://hip-potato.com)
+
+## Tech
+
+- HTML5 / CSS3
+- Google Fonts (Pacifico + Roboto Slab)
+- Hosted on GitHub Pages
+
+No JavaScript, no data collection, just a static page.
